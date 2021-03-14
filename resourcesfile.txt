@@ -1,0 +1,2 @@
+https://github.com/phanispeaks/resourses_automation_using_python.git
+https://selenium-python.readthedocs.io/
